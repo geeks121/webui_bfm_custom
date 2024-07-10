@@ -3,5 +3,5 @@ name=External webui
 version=v1.1
 versionCode=20220929
 author=t@amarin
-description= for open webui "GATEWAY / 127.0.0.1:9999", to start/stop and edit config from other devices
+description= for open webui "GATEWAY / 127.0.0.1", to start/stop and edit config from other devices no port neeeded just your ip
 updateJson=https://github.com/taamarin/ui4cfm/raw/master/update.json
